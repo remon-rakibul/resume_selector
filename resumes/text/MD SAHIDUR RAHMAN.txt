@@ -1,0 +1,100 @@
+﻿Contact:    +8801678020518
+e-mail:rupomon@gmail.com
+Skype: rupom_rattle
+https://bd.linkedin.com/in/sahidur
+
+Career Summary:Capable to introduce and develop modern IT Systems in corporate Group and within its business units by the competitive advantage of information technology with real time information flow and establishing MIS with effective business process and automation.Career Objective:Special Qualification:Microsoft Systems Solution, IT Service Management (ITIL),Core Network and Data Center Security solution using industry standard UTMs and Firewalls, Project management of ERP and/or other Business Application, decision making, change management, team leadership and performance monitoring to ensure productivity, Enterprise Messaging Solution, MS System Center and operation manger.Professional Qualification:
+CertificationInstituteLocationMCITP, Server Administrator( MCSA)Microsoft Vendor Exam New Horizon, Dhaka CCNSP (Cyberoam Certified  Network Security Professional)Cyberoam Vendor ExamDhaka Certificate of Participation,  Coaching for CommitmentPinnacle PLCPinnacle PLC, Bangladesh DayITIL Foundation v3EXIN, Vendor ExamEcademy, BangladeshBe a competent professional and build a prosperous career by applying creative skills in an organization which will provide a learning and rewarding environment.
+
+Employment History :  Total Year of Experience : 09  Year(s)
+University of Liberal Arts Bangladesh, H-56, R-4/A, Dhanmondi, Dhaka
+Manager, Head of IT Operation(21st December, 2014- Present)
+
+Responsibilities: 
+
+• Design, develop and implement effective IT Infrastructure & solutions that satisfy the business requirements. Supervise and lead IT helpdesk staffs and act as a team player having monitor their day to day job using IT helpdesk management system.
+• Ensure integrated MIS system with all functions and operations and Inventory control for the same. Address Major IT Incident and make Business Continuity plan to safeguard the Information Technology in the event of disaster. 
+• Manage day to day IT systems operations, ensuring that planning, end-user impact, change management, quality management are properly addressed and monitored to ensure deadlines, budgets and service levels are met and results delivered.
+
+• Update and integration of University Resource Management ERP called URMS includes Student Billing, Accounts, HR and Payroll integration.
+• Agreeing costs, timescales and standards to be met and monitoring these throughout the project.
+• Making sure of smooth change over from the old system to the new one. Keeping management and clients updated on progress. Evaluation of each project stage once completed.
+• Undertaken the project of Core Network upgration in ULAB data center by implementing VLAN with four location’s campus connectivity, implementing DMZ and secured server farm using Juniper SRX Firewall and core switches.ExpoGroup Bangladesh, 206/A, Colloid Center, Tejgaon I/A, Dhaka-1212
+Asst. Manager, IT Network and System Administration (March 15, 2012 – 20th December, 2014) Responsibilities:
+
+Leadership Competencies:
+• Able to develop and implement effective IT Infrastructure & solutions that satisfy the business requirements.
+
+• Facilitate the procurement and installation of new hardware, software, accessories and ensure maximum cost saving for the same. Communicate with external parties related to IT Continuity Services. Ensure SLA is maintained with third party vendors and ISP.
+
+• Develop requirements, budgets, and schedulers for information technology projects. Ensure project is completed within budget and on time.
+
+• Recognizes problems and responds, systematically gathers information, sorts through complex issues, addresses root cause of issues, makes timely decisions, uses consensus when possible, and communicates decisions to others.
+
+• Ensure that the proper IT policies/procedures and controls are in place and correctly implemented by the employee. Arrange training and other IT skill enhancement business productivity session for the end user within the Group.
+
+• Business Continuity planning to ensuring High Availability of Critical Business Application by initiating the project of Server Consolidation and Resource optimization with Virtualization and creating DR site in the next fiscal year.
+
+Functional Competencies:
+• Maintain IT systems and data networks, LAN and WAN connectivity monitoring through Network Performance Monitor, Check Database Servers System Health, Make monthly Report on Bandwidth, Data connectivity & Servers availability.
+
+• Maintain and administer Active Directory Services, DNS & DHCP, implement different types of Group policies according to business requirements, Manage Exchange server 2003- user mail box, distribution group, mail flow settings and mail retention etc.
+
+• Control VPN and ACL configuration, Maintain File Server, Create File Quotas and Screening on Shared folders. Maintain WSUS Servers and ensure windows & Microsoft Security Essential updates, Create Web sites access and block policy, filtering URL and logging, monitor, publish web based application through Cyberoam and ASA firewall.
+
+• Regular and scheduled Data Backup of Critical Business Application and Mailbox database using Microsoft Data Protection Manager (DPM). Rahimafrooz Bangladesh Ltd, 13, Mohakhali C/A, Dhaka
+Sr. Officer- IT System Administration, ( October 20, 2008 - March 14, 2012)
+
+Responsibilities:
+
+• Plan and implement small IT projects, roll out IT policy to new & existing users, provide IT training for users, IT cost optimization through proper IT budget for a year and review cumulative IT expenses.
+• Maintain Active Directory Domain infrastructure including Primary Domain Controller, Additional Domain Controller, troubleshooting on DNS and DHCP, Active Directory Sites and Services, deploy Group Policy, IIS on Windows Server 2008 platform.
+• Manage Exchange Server 2007 - user mail box creation, Distribution Group & mail flow settings, Mail policy, Mail database backup & recovery.
+• Assistance in the SAP project deployment (SAP basis) part- SAP ECC 6.0 installation, SAP IS-Retail, SAP Netweaver PI 7.1, SAP Netweaver BW 7.3 on IBM i7.1 platform and prepared for business and technical usage.
+• Performed SAP Kernel upgrade, patch level upgrade, plug-ins installation and applied SAP Notes.Client administration activities such as system copy, client copy, client export/import as per business need.
+• Administered SAP BASIS authorization role, user creation and managing spool, SAP application instance.
+• Corporate Anti-virus maintenance, MS Forefront Security for IT security & Firewall, System Restore and data backup.
+• System heath checkup and monitor event log for Critical business application, Provide Server Availability monthly report (UP and Downtime) as per SLA for Internet, Email and other IT application.3. Techvally Networks Limited , 13 Mohakhali C/A, RCC tower
+Coordinator, IT help desk Engineer (Warid Telecom Bangladesh ltd-Presently Airtel)
+Duration: ( December 10, 2006 - October 15, 2008) Responsibilities:
+• Operate and manage IT helpdesk Engineers to provide IT Support to user end and monitoring the IT systems support in Warid Telecom Gulshan, Dhaka Branch.
+• Supervise and monitor IT helpdesk Engineer's daily activities and prepare report of all IT related jobs through IT Service Desk portal and send all IT activities report to IT Enterprise team in every weekend.
+• Check Anti-virus status, virus intrusion in users pc, Critical User End Support, Engagement with Vendor for hardware support etc.
+Projects Information: 
+
+• Core Network & Data Center up gradation- Successfully finished theExpo Group’sDataCenter Core Network upgrade with eight branch connectivity through IP VPN and E1.Implemented DMZ and secured Server Farm by applying VLAN into Core Network using Cisco Layer 3 Switches, ASA firewall with IPS and Cisco ISR Router.
+Company: Expo Group, Duration: Aug 2013 – March 2014, Status: Completed, Role: Project Manager
+
+• Automatic Fire Suppression and EMS(Environment Monitoring System)-Implementation of Expo Group Data Centers’s automatic fire suppression system.Deployment of Heat, Smoke, water, humidity detector and Pyrogen Gas cylinder.Implement Environment monitoring and sms based alert System by NTI EMS.
+Company: Expo Group, Duration: Sep 2013 – Dec 2013, Status: Completed, Role: Support
+
+• Security Device (UTM) implementation - Cyberoam iNG300 deployment into Expo Group core network in order to save line of Business application server from security threat using Sophos AV and IPS, filtering web traffic,protect email viruses and anti-spamming of Exchange mail server, manage bandwidth, Filtering web traffic.
+Company: Expo Group, Duration: Sep 2013 – Dec 2013, Status: completed, Role: Project Manager
+
+• Active Directory 2012 and Exchange Server 2013 –Successfully upgraded Active Directory Domain Controller from Windows server 2003 to 2012 with Additional domain controller, DNS, DHCP and deployment of Exchange Server 2013 with H/A by implementing DAG and CAS role into multiple hyper-v host servers.
+Company: Expo Group. Duration: Jan 2014 – Jun 2014, Status: started - Completed, Role: Project Manager
+
+• Microsoft SCCM, SCDPM- Deployment of Microsoft System Center Configuration Manager for deployment of updates and patches in line of business server. Deployment of Microsoft Data Protection Manager for Exchange and other Database backup into storage and Tape with Snapshot. Implementation of Microsoft Endpoint security to all windows client and server.
+Company: Expo Group, Duration: Nov 2013 – March 2014, Status: Completed, Role: Project 
+Manager
+• Exchange Server 2007 deployment-Rolling out messaging solution of Rahimafrooz Group using Exchange Server and ISA server 2006 for Exchange mail forwarding (NAT),Internet Web proxy, filtering.
+Company: Rahimafrooz Group,Duration: September 2008 – Dec 2008, Role: Support
+
+• SAP IS-Retail ERP deployment- worked in SAP ERP (IS-Retail) rollout for Rahimafrooz Superstore Ltd forSAP ECC 6.0 installation, SAP IS-Retail, SAP Netweaver PI 7.1, SAP Netweaver BW 7.3 on IBM i7.1 platform.Administered Enterprise Resource Planning (ERP) SAP BASIS authorization role, user creation and managing spool, SAP application instance.
+
+• Network Monitoring System (NMS)–Solarwinds NPM 8.0 deployment in Rahimafrooz data center in order to monitor Network and server connectivity and performance.
+Company: Rahimafrooz Group,Duration: Aug 2011 – September 2011, Role: Support
+Academic Qualification:
+Exam TitleConcentration/MajorInstituteResultPassing YearB.Sc Computer Science University of Madras, India First Class2000 Higher Secondary School Certificate Science Govt. AzizulHaque College, Bogra First Division 1995 Secondary School Certificate Science BograZilla School First Division1993 
+Training Summary:
+Training TitleTopicInstituteCCNA Cisco Certified Network Associate New Horizon CLC, Dhaka Microsoft Certified IT Professional (MCITP)Windows Server 2008 Active Directory Configuring, Network Infrastructure, Sever Administrator New Horizon CLC, Dhaka Microsoft Certified Mastering Exchange Server 2010 Exchange Server 2010 Configuring, Designing & Deploying Messaging Solution with Exchange Server 2010 New Horizon CLC, Dhaka 
+
+
+Personal Details and application Information:
+Father's Name :Momtazur RahmanMother's Name :Mst. NoorjahanMarital Status :MarriedNationality:BangladeshiPresent Address:H#130, Flat#E4,R#08
+Mohammadia Housing Ltd, Mohammadpur, Dhaka.Permanent Address:Sultangonj Para, Bogra Sadar, BograSultangonj Para, Alia Madrasa Road, BograSadar, Bogra
+Reference (s):
+Name :  Prof. Imran Rahman  Mohammad Abdul MatinOrganization:  University of Liberal Arts Bangladesh.   EXPO GROUP Designation:  Vice Chancellor  Chief Information Officer Address:  H-56,R-4/A, Dhanmondi, Dhaka-1209  206/A, Tejgaon I/A, Dhaka-1208Phone (Off.) :  9665686, 01711521324    028835028, 01714170055E-Mail:  imran.rahman@ulab.edu.bd  matin@expogroup-bd.com
+
+
+(MD SAHIDUR RAHMAN)
